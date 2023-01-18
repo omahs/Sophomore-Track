@@ -9,7 +9,7 @@ You are launching your NFT collection named `Crypto Devs`. You want to give your
 - Whitelist access should be given to the first `10` users for free who want to get in.
 - There should be a website where people can go and enter into the whitelist.
 
-Lets start building 🚀
+Let's start building 🚀
 
 ---
 
@@ -191,7 +191,7 @@ To deploy, open up a terminal pointing at `hardhat-tutorial` directory and execu
 npx hardhat run scripts/deploy.js --network goerli
 ```
 
-Save the Whitelist Contract Address that was printed on your terminal in your notepad, you would need it futher down in the tutorial.
+Save the Whitelist Contract Address that was printed on your terminal in your notepad, you would need it further down in the tutorial.
 
 ### Website
 
